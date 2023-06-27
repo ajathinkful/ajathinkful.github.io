@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  width: 100%;
+} /* not sure what this does ^^^ */
+
+h1{
+  font-family: Monospace;
+  color: #8084AB;
+  text-align: center;
+  font-size: 45px;
+}
+
+h2{
+  font-family: Monospace;
+  font-size: 25px;
+  color: #8084AB;
+}
+
+body {background-color: #C9C359;}
+
+h3{
+  font-family: Monospace;
+  font-size: 15px;
+  color: #8084AB;
+}
+
+main {
+  padding-left: 20px;
+}
+
+p {font-size: 18;
+  font-family: monospace;}
+
+hr {
+  height: 0.5px;
+  background-color: #8084AB;
+  border: 0px; 
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+a {
+  font-family: monospace;
+  font-size: 20px;
+}
+
+a:link    { color: #8084AB;  }
+a:visited { color: #AA80AB;   }
+a:hover   { color: #A38774; }
+a:active  { color: #B38D8D;  }
+
+ol {
+  color:#8084AB;
+  font-family: monospace;
+}
+
+ul {
+  font-family: monospace;
+  font-size: 12px;
+}
+
+footer {
+    background-color: #A6A14A;
+    margin: 200px 0 0 0;
+    padding: 20px 0;
+  height: 50px;
+}
+
+footer {
+  padding-left: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
