@@ -1,1 +1,0 @@
-# ajathinkful.github.io
