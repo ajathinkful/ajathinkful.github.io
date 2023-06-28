@@ -3,6 +3,9 @@ html {
   width: 100%;
 } /* not sure what this does ^^^ */
 
+/* colors were found using coolors, 
+the font chosen seemed modern and not too formal*/
+
 h1{
   font-family: Monospace;
   color: #8084AB;
@@ -48,6 +51,7 @@ a:link    { color: #8084AB;  }
 a:visited { color: #AA80AB;   }
 a:hover   { color: #A38774; }
 a:active  { color: #B38D8D;  }
+/* the link doesn't change to visited as expected after clicking the link */
 
 ol {
   color:#8084AB;
@@ -75,3 +79,4 @@ footer {
   margin-left: auto;
   margin-right: auto;
 }
+/* first use of classes */
